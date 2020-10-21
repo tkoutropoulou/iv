@@ -1,10 +1,25 @@
-### Workflow for creating and updating your deliverables
+# Παραδοτέα και Τελική αναφορά
 
-- Fork this repo.
-- Create a new branch (named with your studentID).
-- Create a new README.md file inside a folder (inside the reports folder) named with your studentID.
-- Edit the README.md file with your name and [add a table of contents with the deliverables](https://raw.githubusercontent.com/courses-ionio/help/master/deliverables/index.md).
-- Edit (and commit) your report according to the [deliverables timetable](https://courses-ionio.github.io/help/deliverables/).
-- At the end of the course, make a pull-request.
+### Theoni Koutropoulou, 
 
-[Detailed instructions with gifs and links to official documentation](https://courses-ionio.github.io/help/guide/)
+## Πίνακας με σύνοψη των προθεσμιών και των παραδοτέων
+
+| Εβδομάδα* | Παραδοτέο |
+| --- | --- |
+| 1 | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* |
+| 2 | Άσκηση προγραμματισμού ή βιογραφικό  (SW) |
+| 3 | Άσκηση γραμμής εντολών |
+| 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
+| 5 | Άσκηση γραμμής εντολών |
+| 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
+| 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
+| 9 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
+| 10 | συμμετοχικό περιεχόμενο |
+| 11 | αίτημα ενσωμάτωσης (CSCW, IV) |
+| 12 | Τελική αναφορά* |
+
+# Eβδομάδα 1
+
+
+
