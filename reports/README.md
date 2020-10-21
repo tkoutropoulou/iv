@@ -21,5 +21,5 @@
 
 # Eβδομάδα 1
 
-
-
+ This course is the greatest opportunity for me to gain technical experience and learn new platforms like github. 
+ 
