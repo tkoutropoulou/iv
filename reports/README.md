@@ -7,7 +7,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Introduction](#introduction) |
-| 2 | [Form Validation](#form-validation)|
+| 2 | [Form Validation](#https://codepen.io/tkoutropoulou/embed/OJXzGbR?height=265&theme-id=light&default-tab=html,result)|
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
