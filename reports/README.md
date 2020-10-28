@@ -7,7 +7,7 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Introduction](#introduction) |
-| 2 | Άσκηση προγραμματισμού|
+| 2 | [Form Validation](#form-validation)|
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -23,5 +23,5 @@
 
  This course is the greatest opportunity for me to gain technical experience and learn new platforms like github. 
  
-# Eβδομάδα 2
- Άσκηση προγραμματισμού
+# Form Validation Exercise
+ Regular expression-based function for locating request access information.
