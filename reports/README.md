@@ -9,7 +9,7 @@
 | 1 | [Introduction](#introduction) |
 | 2 | [Form Validation](#form-validation)
 | 2 | [Visualization Dataset](#visualization-dataset)| 
-| 3 | Άσκηση γραμμής εντολών |
+| 3 | [CV](#cv) |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
@@ -36,3 +36,5 @@
  10 of my friends report me the number of times that they eat pizza and souvlaki at 2020. 
  
  https://codepen.io/tkoutropoulou/pen/abZGJJq
+ 
+ # CV
