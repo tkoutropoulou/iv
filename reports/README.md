@@ -7,7 +7,8 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Introduction](#introduction) |
-| 2 | [Form Validation](#form-validation)|
+| 2 | [Form Validation](#form-validation)
+| 2 | [Visualization Dataset](#visualization-dataset)| 
 | 3 | Άσκηση γραμμής εντολών |
 | 4 | Άσκηση προγραμματισμού ή αίτημα ενσωμάτωσης (CSCW, IV) ή βιογραφικό  (SW) |
 | 5 | Άσκηση γραμμής εντολών |
@@ -23,8 +24,11 @@
 
  This course is the greatest opportunity for me to gain technical experience and learn new platforms like github. 
  
+ Take a look: https://happy-swanson-c00284.netlify.app/
+ 
 # Form Validation
  Regular expression-based function for locating request access information.
  https://codepen.io/tkoutropoulou/embed/OJXzGbR?height=265&theme-id=light&default-tab=html,result
  
- Take a look: https://happy-swanson-c00284.netlify.app/
+ # Visualization Dataset
+ https://codepen.io/tkoutropoulou/pen/abZGJJq
