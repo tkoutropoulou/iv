@@ -38,3 +38,6 @@
  https://codepen.io/tkoutropoulou/pen/abZGJJq
  
  # CV
+https://mycv-site.netlify.app/
+
+https://github.com/tkoutropoulou/myCV
