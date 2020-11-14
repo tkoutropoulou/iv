@@ -7,11 +7,11 @@
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
 | 1 | [Introduction](#introduction) |
-| 2 | [Form Validation](#form-validation)
+| 2 | [Form Validation](#form-validation)|
 | 2 | [Visualization Dataset](#visualization-dataset)| 
 | 3 | [CV](#cv) |
 | 4 | Αίτημα ενσωμάτωσης |
-| 5 | Άσκηση γραμμής εντολών |
+| 5 | [Image](#image) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
 | 8 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) |
@@ -33,7 +33,7 @@
  
  # Visualization Dataset
  
- 10 of my friends report me the number of times that they eat pizza and souvlaki at 2020. 
+ 10 of my friends report me the number of times that they eat pizza and souvlaki during 2020. 
  
  https://codepen.io/tkoutropoulou/pen/abZGJJq
  
@@ -41,3 +41,10 @@
 https://mycv-site.netlify.app/
 
 https://github.com/tkoutropoulou/myCV
+
+# Image
+
+Svg Image
+
+https://codepen.io/tkoutropoulou/pen/XWKOqGO
+
