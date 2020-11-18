@@ -10,7 +10,7 @@
 | 2 | [Form Validation](#form-validation)|
 | 2 | [Visualization Dataset](#visualization-dataset)| 
 | 3 | [CV](#cv) |
-| 4 | Αίτημα ενσωμάτωσης |
+| 4 | [Pull request](#pull-request) |
 | 5 | [Image](#image) |
 | 6 | Άσκηση προγραμματισμού (HCI) ή γραμμής εντολών (SW) ή συμμετοχικό περιεχόμενο |
 | 7 | Άσκηση γραμμής εντολών (SW) ή αίτημα ενσωμάτωσης (CSCW, IV) |
@@ -47,4 +47,8 @@ https://github.com/tkoutropoulou/myCV
 Svg Image
 
 https://codepen.io/tkoutropoulou/pen/XWKOqGO
+
+# Pull request
+
+New professors are added at the master site page
 
