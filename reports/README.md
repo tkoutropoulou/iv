@@ -24,7 +24,7 @@
 
  This course is the greatest opportunity for me to gain technical experience and learn new platforms like github. 
  
- Take a look: https://epidromebook.netlify.app/remix/
+ Take a look: https://tkoutropouloubook.netlify.app/
  
 # Form Validation
  Regular expression-based function for locating request access information.
